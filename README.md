@@ -23,7 +23,8 @@ Beyond just gameplay, this project demonstrates an understanding of how external
 
 There are various enhancements that can be made to improve the game further. These include implementing difficulty levels, adding more visual effects, enabling pause/resume functionality, displaying a high score board, or even porting the game to other platforms. Future updates could also include introducing different themes or power-ups to make gameplay more dynamic and enjoyable.
 
-https://github.com/user-attachments/assets/8641808a-8159-4afe-b041-21fcd572f00a
+
 Overall, this Snake Game serves as a fun and educational project that merges creativity with coding skills. It is ideal for beginners who want to get hands-on experience with SFML, and also for experienced developers looking to revisit the fundamentals of interactive game programming. The game strikes a balance between simplicity and functionality, making it an enjoyable side project with a lot of potential for future development.
 
 Output:
+https://github.com/user-attachments/assets/8641808a-8159-4afe-b041-21fcd572f00a
